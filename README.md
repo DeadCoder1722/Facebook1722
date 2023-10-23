@@ -7,17 +7,15 @@ $ apt install git
 
 $ apt install python2
 
-$ git clone https://github.com/dAYOShACKER505/AXOM-FB-HACK
+$ git clone (https://github.com/DeadCoder1722/Facebook1722)
 
-$ cd AXOM-FB-HACK
+$ cd Facebook1722
 
 $ ls
 
-$ python2 axom.py
+$ python2 Team1722.py
 
 
 DONATE ME                       
 =================================================
-BTC ADDRESS-                                                            
-3NyAqCN5YvtXSCCxcAgr43uzugSqGLGYaK 
 
